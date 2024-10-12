@@ -1,0 +1,17 @@
+.container{
+  color: green;
+}
+
+.btn-success{
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary{
+  color: white;
+  background-color: brown;
+  border-radius: 5px;
+  cursor: pointer;
+}

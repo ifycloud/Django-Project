@@ -1,0 +1,25 @@
+.firstDiv{
+  color: blue;
+}
+
+.secondDiv{
+  color: red;
+}
+
+#singledout{
+  color: green;
+  text-decoration: line-through;
+}
+
+h3 + ul{
+  border: 3px dotted purple;
+}
+
+li a{
+  color: brown;
+}
+
+li a[href="www.obasurveys.dev"]{
+  color: Blue;
+  border: 4px solid orange;
+}
